@@ -1,0 +1,1 @@
+{"visitor":{"name":"Maxim","password":"123","status":"VISITOR"},"id":1,"dishes":[{"name":"a","cost":1,"timeToCook":"PT6S","quantity":46}],"status":"READY"}
